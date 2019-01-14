@@ -1,0 +1,53 @@
+html, body{ 
+	
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+  
+}
+
+body{
+  background-color:blue
+}
+
+#title {
+  font-size:x-large;
+  color: white;
+  padding: 25px;
+}
+
+#bar {
+	border-bottom:1px solid gray;
+	background:none repeat scroll 0 0 #0775d3;
+	padding:25px;
+	background-color:whitesmoke
+}
+
+#booker {
+	border-bottom:1px solid gray;
+	background:none repeat scroll 0 0 #0775d3;
+	padding:25px;
+		background-color:whitesmoke
+}
+
+body{
+	border-top:30px blue;
+	text-align:center;
+}
+ 
+#actors{
+	font-size:x-large;
+  color: white;
+  padding: 25px;
+}
+
+button {
+	border: 1px solid #666; 
+	border-radius: 5px; 
+	padding: 4px; 
+	font-size: 12px;
+	font-weight: bold;
+	width: 120px; 
+	padding: 5px 10px; 
+	
+	margin-bottom: 15px;
+	background-color: white
+}
